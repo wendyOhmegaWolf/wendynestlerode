@@ -15,3 +15,8 @@ a, a:hover {
 #self {
     max-height: 700px;
 }
+
+footer {
+    background-image: linear-gradient(to bottom, rgb(66, 66, 66), rgb(105, 105, 105), rgb(150, 149, 149));
+    color: white;
+}
